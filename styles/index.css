@@ -63,6 +63,7 @@ div.perfil {
   text-decoration: none;
   text-align: center;
   color: var(--purple);
+  font-weight: 600;
 }
 
 .perfil a:hover {
